@@ -1,35 +1,32 @@
-# Surfn-Plasma-Flow
+<h1 align="center">
+  <img src="kiro.jpg" alt="Kiro" width="220" />
+  <br />
+  Surfn Plasma Flow
+</h1>
 
-Learn, have fun and enjoy.
+![Last-Commit](https://img.shields.io/github/last-commit/erikdubois/surfn-plasma-flow?style=for-the-badge)
 
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/erikdubois?style=flat">&nbsp;&nbsp;<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/erikdubois/surfn-plasma-flow">&nbsp;&nbsp;<img alt="GitHub forks" src="https://img.shields.io/github/forks/erikdubois/surfn-plasma-flow">
 
+<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCJdmdUp5BrsWsYVQUylCMLg">&nbsp;&nbsp;<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCJdmdUp5BrsWsYVQUylCMLg">
 
-# Websites
+---
 
-Information : https://arcolinux.info
+A colour variant of the [Surfn](https://github.com/erikdubois/surfn) icon theme. Ships only the **Surfn-Plasma-Flow** theme and inherits the base **Surfn** icon set, so `surfn-icons-git` is required.
 
-Tutorials about ArcoLinux iso (Xfce, Openbox and i3) : https://arcolinux.com
+## Installation (Arch / Kiro — nemesis_repo)
 
-Tutorials about ArcoLinuxD iso (any desktop) : https://arcolinuxd.com
+```
+sudo pacman -S surfn-plasma-flow-git
+```
 
-Tutorials about ArcoLinuxB iso (any desktop) : https://arcolinuxb.com
+`surfn-icons-git` (base Surfn) is pulled in automatically as a dependency.
 
-Tutorials about Carli project (any desktop) : https://arcolinuxiso.com
+## Manual
 
-Forum : https://arcolinuxforum.com
+Copy the **Surfn-Plasma-Flow** icon folder into `~/.icons` (or `~/.local/share/icons` on Plasma),
+make sure the base `Surfn` theme is present, then select **Surfn Plasma Flow** in your appearance settings.
 
+## License
 
-# Social Media
-
-Facebook : https://www.facebook.com/arcolinuxd/
-
-Facebook : https://www.facebook.com/groups/arcolinux/
-
-Twitter  : https://twitter.com/arcolinux
-
-Instagram: https://www.instagram.com/arcolinux/
-
-Linked in: https://www.linkedin.com/in/arcolinux
-
-Youtube  : https://www.youtube.com/erikdubois
-
+[LICENSE](./LICENSE) — Attribution-NonCommercial-ShareAlike 4.0 International.
